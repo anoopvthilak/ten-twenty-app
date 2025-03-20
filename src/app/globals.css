@@ -1,0 +1,12 @@
+@import url('https://fonts.google.com/specimen/Work+Sans');
+html {
+  font-family: var(--font-work-sans);
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.65;
+  margin: 0;
+  padding: 0;
+}
